@@ -1,0 +1,4 @@
+Herramienta para convertir medidas
+Comando para compilar programa : g++ main.cpp conversor.cpp -o conversor
+Comando para ejecutar programa : ./conversor
+Un saludo.
